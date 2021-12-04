@@ -1,0 +1,6 @@
+{
+  "name": "slattery/search_api_has_research_tag",
+  "description": "Requires presence of a Research tag to add nodes from News bundle to search index.",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later"
+}
